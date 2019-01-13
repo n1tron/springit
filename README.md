@@ -1,4 +1,4 @@
 Springit
 ===
 
-Thiis is test Springit application
+Thiis is test Springit application.
