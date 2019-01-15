@@ -1,6 +1,5 @@
 package com.vega.springit.domain;
 
-import jdk.jfr.DataAmount;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
